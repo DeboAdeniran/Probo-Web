@@ -1,7 +1,7 @@
 import React from "react";
 import Settings from "../../assets/svg/settings.svg?react";
 import Network from "../../assets/svg/network.svg?react";
-import People from "../../assets/svg/People.svg?react";
+import People from "../../assets/svg/people.svg?react";
 import WhyCards from "../ui/whyCards";
 
 function WhyProboLayout() {
