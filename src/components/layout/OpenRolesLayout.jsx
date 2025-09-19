@@ -1,5 +1,5 @@
 import React from "react";
-import Ellipse from "../../assets/svg/ellipse.svg?react";
+import Ellipse from "../../assets/svg/Ellipse.svg?react";
 import ArrowRight from "../../assets/svg/arrow-right.svg?react";
 
 function OpenRoleSlides({ jobTitle, employmentType, location }) {
