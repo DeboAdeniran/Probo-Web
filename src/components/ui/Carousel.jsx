@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import IconNext from "../../assets/svg/icon-next.svg?react";
-import IconPrev from "../../assets/svg/icon-previous.svg?react";
+import IconPrev from "../../assets/svg/Icon-previous.svg?react";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 
 function Carousel({ items, autoPlay = false, autoPlayInterval = 3000 }) {
